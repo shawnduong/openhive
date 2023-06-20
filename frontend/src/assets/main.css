@@ -1,9 +1,13 @@
 :root {
-	--golden-honey: #FFE594;
+	--primary:        #581A00;
+	--primary-alt:    #FF986B;
+	--secondary:      #EED099;
+	--secondary-alt:  #BCAB79;
 }
 
 html {
 	font-family: Roboto, sans-serif;
+	color: var(--primary);
 }
 
 body {
