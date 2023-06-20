@@ -25,10 +25,12 @@
 
 #navbar {
 	display: flex;
+	position: fixed;
+	width: 100%;
 	justify-content: space-between;
 	align-items: center;
 	margin: 0;
-	background-color: var(--golden-honey);
+	background-color: var(--secondary);
 }
 
 #nav-links {
