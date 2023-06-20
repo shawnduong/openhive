@@ -21,7 +21,7 @@
 
 <!-- Style -->
 
-<style>
+<style scoped>
 
 #navbar {
 	display: flex;
