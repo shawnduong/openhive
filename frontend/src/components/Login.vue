@@ -20,7 +20,9 @@
 			</form>
 		</div>
 		<div id="description">
-			<p>Lorem ipsum dolor sit amet.</p>
+			<p>OpenHive is a free and open-source self-hosted network management platform for AeroHive wireless access points.</p>
+			<p>Liberate your WAPs from vendor lock and use the hardware you own!</p>
+			<p><b>This project is a WIP. Some features may be unstable.</b></p>
 		</div>
 	</div>
 </div>
@@ -62,6 +64,8 @@
 	vertical-align: middle;
 	border-left: 2px solid var(--secondary-off);
 	height: 100%;
+	max-width: 18em;
+	text-align: justify;
 	padding-left: 32px;
 }
 
