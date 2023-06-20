@@ -60,7 +60,7 @@
 #description {
 	display: inline-block;
 	vertical-align: middle;
-	border-left: 2px solid #e4af73;
+	border-left: 2px solid var(--secondary-off);
 	height: 100%;
 	padding-left: 32px;
 }
