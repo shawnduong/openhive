@@ -9,7 +9,7 @@
 
 <nav id="navbar">
 	<a id="brand" href="/">
-		<img src="@/assets/png/logo64.png" />
+		<img src="@/assets/png/logo_light.png" />
 	</a>
 	<ul id="nav-links">
 		<li class="nav-link"><a href="#">GitHub</a></li>
@@ -37,7 +37,11 @@
 }
 
 #brand {
-	margin-left: 32px;
+	margin: 8px 32px;
+}
+
+#brand img {
+	height: 64px;
 }
 
 .nav-link {
