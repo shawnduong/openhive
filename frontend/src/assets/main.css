@@ -1,8 +1,9 @@
 :root {
-	--primary:        #581A00;
-	--primary-alt:    #FF986B;
-	--secondary:      #EED099;
-	--secondary-alt:  #BCAB79;
+	--primary:          #581A00;
+	--primary-alt:      #FA9634;
+	--primary-alt-off:  #FFFBF6;
+	--secondary:        #FFE0A7;
+	--secondary-alt:    #BCAB79;
 }
 
 html {

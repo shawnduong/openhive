@@ -49,10 +49,18 @@
 	vertical-align: middle;
 }
 
+#form input {
+	background-color: var(--primary-alt-off);
+	border: none;
+	border-radius: 4px;
+	padding: 4px;
+	margin-top: 4px;
+}
+
 #description {
 	display: inline-block;
 	vertical-align: middle;
-	border-left: 1px solid gray;
+	border-left: 2px solid #e4af73;
 	height: 100%;
 	padding-left: 32px;
 }
@@ -65,7 +73,7 @@
 
 .form-enter {
 	width: 100%;
-	background-color: var(--primary-alt);
+	background-color: var(--primary-alt) !important;
 	border: none;
 	border-radius: 2px;
 	padding: 4px;
