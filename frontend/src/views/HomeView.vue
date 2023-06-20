@@ -5,7 +5,9 @@
 
 <template>
 	<Navbar />
-	<Login />
+	<div class="body">
+		<Login />
+	</div>
 </template>
 
 <style>
